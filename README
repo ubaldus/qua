@@ -1,0 +1,4 @@
+qùa	Copyright (C) 2013 by Ubaldo Porcheddu <ubaldo@eja.it>
+
+This is a circular shift cipher algorithm that moves bytes position
+according to key's value.  Its name means "to hide" in Sardinia.
